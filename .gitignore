@@ -1,0 +1,19 @@
+#Comentary
+#Ignore fale
+
+.env
+
+#Ignore directory
+
+node_modules
+logs
+
+#Ignore all file
+
+.*
+
+#Not ignore fale / directory
+
+!.gitignore
+!.gitkeep
+
